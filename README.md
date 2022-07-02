@@ -1,5 +1,5 @@
 s3bucket="upgrad-shivaraj1"
-name="upgrad"
+name="shivaraj"
 
 apt update -y
 
